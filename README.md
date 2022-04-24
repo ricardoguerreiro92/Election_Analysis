@@ -4,7 +4,7 @@
 - The purpose of this analysis is to determine the number of votes for each county and candidate.<br>We will also determine the largest turnout county and declare the winner by popular vote in percentages.</br>
 
 ### Election Audit Results
-![Votes](../resources/election_results.png)
+![Votes](/resources/election_results.png)
 
 ### Total Votes
 - There is a total of 369,711 votes.
